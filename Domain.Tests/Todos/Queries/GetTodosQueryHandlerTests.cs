@@ -27,13 +27,15 @@ public class GetTodosQueryHandlerTests
             {
                 Id = Guid.NewGuid(),
                 Description = "Todo 1",
-                IsPending = true
+                IsPending = true,
+                DateAdded = DateTime.UtcNow
             },
             new()
             {
                 Id = Guid.NewGuid(),
                 Description = "Todo 2",
-                IsPending = false
+                IsPending = false,
+                DateAdded = DateTime.UtcNow.AddDays(1)
             }
         };
         _readServiceMock.Setup(x => x.GetAllTodos(It.IsAny<CancellationToken>()))

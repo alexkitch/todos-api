@@ -1,0 +1,22 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/Highlighting/HighlightingSourceSnapshotLocation/@EntryValue">C:\Users\alexk\AppData\Local\JetBrains\Rider2022.3\resharper-host\temp\Rider\vAny\CoverageData\_todos.1709451254\Snapshot\snapshot.utdcvr</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=d81cf545_002De5cd_002D4a14_002Db96e_002D624d76cf8aef/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Handle_WithValidRequest_CreatesTodo" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::322A570C-2A91-43B5-9586-F0AC80D8281E::net7.0::Domain.Tests.Todos.Commands.CreateTodoCommandHandlerTests.Handle_WithValidRequest_CreatesTodo&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=db23d93d_002Dfee2_002D41c0_002D94d1_002D67efbacbf615/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="Handle_WithValidRequest_CreatesTodo #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;Or&gt;&#xD;
+    &lt;Project Location="C:\Users\alexk\src\todos\todos-api\Domain.Tests" Presentation="&amp;lt;Domain.Tests&amp;gt;" /&gt;&#xD;
+    &lt;TestAncestor&gt;&#xD;
+      &lt;TestId&gt;xUnit::AB53D422-864C-4F86-8193-FDD23E4963DD::net7.0::Api.Tests.Todos.Endpoints.GetTodosEndpointTests.ExecuteAsync_ReturnsOkResult&lt;/TestId&gt;&#xD;
+      &lt;TestId&gt;xUnit::AB53D422-864C-4F86-8193-FDD23E4963DD::net7.0::Api.Tests.Todos.Endpoints.GetTodosEndpointTests.ExecuteAsync_ReturnsTodos&lt;/TestId&gt;&#xD;
+      &lt;TestId&gt;xUnit::AB53D422-864C-4F86-8193-FDD23E4963DD::net7.0::Api.Tests.Todos.Endpoints.CreateTodoEndpointTests.ExecuteAsync_ReturnsOkResult&lt;/TestId&gt;&#xD;
+      &lt;TestId&gt;xUnit::AB53D422-864C-4F86-8193-FDD23E4963DD::net7.0::Api.Tests.Todos.Endpoints.UpdateTodoEndpointTests&lt;/TestId&gt;&#xD;
+      &lt;TestId&gt;xUnit::AB53D422-864C-4F86-8193-FDD23E4963DD::net7.0::Api.Tests.Todos.Endpoints.DeleteTodoEndpointTests&lt;/TestId&gt;&#xD;
+      &lt;TestId&gt;xUnit::99B825D2-4AC0-4848-BC88-51319B53D3FE::net7.0::DataAccess.Tests.Todos.TodoRepositoryTests&lt;/TestId&gt;&#xD;
+      &lt;TestId&gt;xUnit::99B825D2-4AC0-4848-BC88-51319B53D3FE::net7.0::DataAccess.Tests.Todos.TodoReadServiceTests&lt;/TestId&gt;&#xD;
+      &lt;TestId&gt;xUnit::99B825D2-4AC0-4848-BC88-51319B53D3FE::net7.0::DataAccess.Tests.Todos.TodoWriteServiceTests&lt;/TestId&gt;&#xD;
+    &lt;/TestAncestor&gt;&#xD;
+  &lt;/Or&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

@@ -19,6 +19,6 @@ public class GetTodosQueryHandler : ValidatedRequestHandler<GetTodosQuery, IRead
     {
         _logger.LogInformation("Getting all Todos");
         var todos = await _readService.GetAllTodos(cancellationToken);
-        return todos.OrderByDescending(x => x.DateAdded).ToList();
+        return todos.OrderBy(x => x.DateAdded).ToList();
     }
 }
